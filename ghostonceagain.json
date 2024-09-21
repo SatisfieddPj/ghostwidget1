@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "ghostonceagain.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 826,
+				"h": 357
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 824,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 824,
+						"h": 282
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 824,
+						"h": 282
+					}
+				},
+				{
+					"filename": "bar.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 377,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 377,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 285,
+						"w": 377,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fill.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 363,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 363,
+						"h": 58
+					},
+					"frame": {
+						"x": 380,
+						"y": 285,
+						"w": 363,
+						"h": 58
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:77dc1a875c360884627d5c9fd61e103f:12f5480d1f1cb6d47d514cf0e0294353:82d7fad818601bad79d09421d09a812b$"
+	}
+}
